@@ -1,4 +1,4 @@
-title = "Project 5 Gitleaks Rules"
+title = "Project 5 Gitleaks Configuration"
 
 [extend]
 useDefault = true
@@ -7,4 +7,4 @@ useDefault = true
 id = "project5-api-key"
 description = "Project 5 test API key"
 regex = '''PROJECT5_TEST_API_KEY_[A-Za-z0-9]+'''
-secretGroup = 0
+tags = ["project5", "secret"]
