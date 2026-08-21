@@ -1,0 +1,10 @@
+title = "Project 5 Gitleaks Rules"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "project5-api-key"
+description = "Project 5 test API key"
+regex = '''PROJECT5_TEST_API_KEY_[A-Za-z0-9]+'''
+secretGroup = 0
