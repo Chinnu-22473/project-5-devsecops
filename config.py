@@ -1,4 +1,6 @@
-API_KEY = "PROJECT5_TEST_API_KEY_ABC123456789"
+import os
+
+API_KEY = os.getenv("AI_API_KEY")
 
 MODEL_NAME = "llama3"
 
