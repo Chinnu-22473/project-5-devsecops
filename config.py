@@ -1,4 +1,4 @@
-API_KEY = "sk-test-1234567890abcdef1234567890abcdef"
+API_KEY = "github_pat_1234567890abcdefghijklmnopqrstuvwxyz1234567890"
 
 MODEL_NAME = "llama3"
 
