@@ -1,4 +1,4 @@
-API_KEY = "github_pat_1234567890abcdefghijklmnopqrstuvwxyz1234567890"
+API_KEY = "AKIAIOSFODNN7EXAMPLE"
 
 MODEL_NAME = "llama3"
 
