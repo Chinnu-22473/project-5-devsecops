@@ -77,4 +77,4 @@ jobs:
           python-version: "3.11"
 
       - name: Run custom prompt injection scanner
-        run: python inject_scanner.py
+        run: python .github/workflows/inject_scanner.py
